@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.1",
+  "build_number": 2,
+  "minimum_build": 1,
+  "is_mandatory": false,
+  "release_notes": "Primera versión con actualización automática.",
+  "download_url": "",
+  "file_size_bytes": 0,
+  "sha256": ""
+}
