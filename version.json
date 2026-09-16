@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.2",
-  "build_number": 3,
+  "latest_version": "1.0.3",
+  "build_number": 4,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Menú de opciones y actualización de la aplicación.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.2/app-release.apk",
-  "file_size_bytes": 68814720,
-  "sha256": "6D1C9F8F6FD8240EF22B01A854D88CE5DD53F35CB646278ADC1B3205D7B29B12"
+  "release_notes": "Prueba: Bienvenido - 2026 y menú de opciones.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.1/app-release.apk",
+  "file_size_bytes": 0,
+  "sha256": ""
 }
