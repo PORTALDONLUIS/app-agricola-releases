@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.7",
-  "build_number": 8,
+  "latest_version": "1.0.24",
+  "build_number": 25,
   "minimum_build": 1,
   "is_mandatory": false,
   "release_notes": "Resumen Conteo Cargadores",
