@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.6",
-  "build_number": 7,
+  "latest_version": "1.0.7",
+  "build_number": 8,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Actualizacion Mejora Nom.Lote, Indicador de Nº Muestras",
+  "release_notes": "Resumen Conteo Cargadores",
   "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.1/app-release.apk",
   "file_size_bytes": 0,
   "sha256": ""
