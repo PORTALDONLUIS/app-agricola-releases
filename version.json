@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.25",
-  "build_number": 26,
+  "latest_version": "1.0.27",
+  "build_number": 28,
   "minimum_build": 1,
   "is_mandatory": false,
   "release_notes": "Mejora - Indicador diario de muestras",
