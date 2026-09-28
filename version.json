@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.27",
-  "build_number": 28,
+  "latest_version": "1.0.28",
+  "build_number": 29,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejora - Indicador diario de muestras",
+  "release_notes": "Mejora - Aviso de muestras pendientes de subir a la nube",
   "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.1/app-release.apk",
   "file_size_bytes": 0,
   "sha256": ""
