@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.28",
-  "build_number": 29,
+  "latest_version": "1.0.29",
+  "build_number": 30,
   "minimum_build": 1,
   "is_mandatory": false,
   "release_notes": "Mejora - Aviso de muestras pendientes de subir a la nube",
