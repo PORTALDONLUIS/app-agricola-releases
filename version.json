@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.30",
-  "build_number": 31,
+  "latest_version": "1.0.31",
+  "build_number": 32,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejora - Resumen Cartilla Clasif. Cargadores",
+  "release_notes": "Mejora - Resumen Fertilidad / Nueva - Cartilla Calidad",
   "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.1/app-release.apk",
   "file_size_bytes": 0,
   "sha256": ""
