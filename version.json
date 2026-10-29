@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.51",
-  "build_number": 52,
+  "latest_version": "1.0.52",
+  "build_number": 53,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Corrección de visibilidad en listas TIC: texto negro sobre fondo blanco en opciones, selección, reportes y tipo de disco.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.51/app-release.apk",
-  "file_size_bytes": 83313721,
-  "sha256": "c4133731e73c81fec3588892cb899e6f14cb48b8b94ead96626565427e140abd"
+  "release_notes": "Mejoras TIC: contraste visible en todas las pantallas, búsqueda parcial con series e IMEI, lectura QR y barras, carga en bloques de 15, descarte de borradores y manejo individual de RAM y discos.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.52/app-release.apk",
+  "file_size_bytes": 99372159,
+  "sha256": "dbd385d3ed847f3238b946251a9b605ecb49320d8a9a8a45500cfe481f864ea0"
 }
