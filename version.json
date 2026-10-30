@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.55",
-  "build_number": 56,
+  "latest_version": "1.0.56",
+  "build_number": 57,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Nuevas cartillas Packing de Calidad para uva: Recepción, Abastecimiento, Línea, Paletizado e Ingreso a planta.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.55/app-release.apk",
+  "release_notes": "Nuevas cartillas Packing de Calidad para uva: Recepción, Abastecimiento, Línea, Paletizado e Ingreso a planta. Se corrige la apertura de estos formularios para evitar que la carga se reinicie.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.56/app-release.apk",
   "file_size_bytes": 99470599,
-  "sha256": "141053f4e03ba66ff8be5b017e78f29837ff4d4ad4b06e1c69a58a6621bc1b5b"
+  "sha256": "e8cd5369f10a2a4c5ba5292af16c49383842091d0e97848f129f893e65a37b64"
 }
