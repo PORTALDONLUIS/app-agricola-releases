@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.57",
-  "build_number": 58,
+  "latest_version": "1.0.58",
+  "build_number": 59,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Nuevas cartillas Packing de Calidad para uva: Recepción, Abastecimiento, Línea, Paletizado e Ingreso a planta. Variedad autocompletada por lote y catálogos disponibles para capturar sin conexión.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.57/app-release.apk",
+  "release_notes": "Se reemplaza Zoomflix por SUN FRUITS en la pregunta Planta de la cartilla Packing - Ingreso de producto a planta de uva. El cambio se conserva sin conexión y se sincroniza con el catálogo compartido.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.58/app-release.apk",
   "file_size_bytes": 99552519,
-  "sha256": "86dcc6f3c00cb0e6d16e0ff434734da0b0312e9b57165e974bf2470878e6b569"
+  "sha256": "1757ea41ce289013ea43f5fc6469e19b8e27d61ad613ea920b8303d748fd93b5"
 }
