@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.52",
-  "build_number": 53,
+  "latest_version": "1.0.53",
+  "build_number": 54,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Prueba TIC de compilación centralizada y firma histórica. No publicar.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.52/app-release.apk",
+  "release_notes": "Mejora de sesión persistente: evita cierres por tiempo transcurrido y conserva la sesión ante fallas de internet.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.53/app-release.apk",
   "file_size_bytes": 99372091,
-  "sha256": "ea6d8363995604bafa7d85eaff81295f38c2f1934a2f783050459273fa6bac39"
+  "sha256": "aed88b37fed481cd350be5d80315c488ff5b6edf65bc2c7668f35da8ab05c312"
 }
