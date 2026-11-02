@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.58",
-  "build_number": 59,
+  "latest_version": "1.0.59",
+  "build_number": 60,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Se reemplaza Zoomflix por SUN FRUITS en la pregunta Planta de la cartilla Packing - Ingreso de producto a planta de uva. El cambio se conserva sin conexión y se sincroniza con el catálogo compartido.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.58/app-release.apk",
+  "release_notes": "Mejora - Registrar evidencia fotográfica posterior en ampliaciones TIC desde DonTec App.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.59/app-release.apk",
   "file_size_bytes": 99552519,
-  "sha256": "1757ea41ce289013ea43f5fc6469e19b8e27d61ad613ea920b8303d748fd93b5"
+  "sha256": "3fd1dac7e8e0fdf630d77617701593bc3a6293e3f111953abd9706fbc262c7da"
 }
