@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.60",
-  "build_number": 61,
+  "latest_version": "1.0.61",
+  "build_number": 62,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: tres firmantes en documentos y PDF, correccion de personas, firmas y fechas con historial, y anulacion de registros erroneos desde el ultimo movimiento.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.60/app-release.apk",
+  "release_notes": "Mejoras TIC: estados Robado, Malogrado y Observado; recuperación y reparación conservando la asignación; evaluación de radios con catálogos y PDF actualizados.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.61/app-release.apk",
   "file_size_bytes": 99552519,
-  "sha256": "b1e2f718d198046df940507c8422db35f534e6bbeebf4382f5c7fe557cd0def6"
+  "sha256": "43ce24786b51b41496c5467979af41ae2e5da4970279631403d7ddb609e198ba"
 }
