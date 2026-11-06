@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.61",
-  "build_number": 62,
+  "latest_version": "1.0.62",
+  "build_number": 63,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: estados Robado, Malogrado y Observado; recuperación y reparación conservando la asignación; evaluación de radios con catálogos y PDF actualizados.",
+  "release_notes": "Mejoras TIC: Nueva Cartilla de Asistencia para personal de Embarque",
   "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.61/app-release.apk",
   "file_size_bytes": 99552519,
   "sha256": "43ce24786b51b41496c5467979af41ae2e5da4970279631403d7ddb609e198ba"
