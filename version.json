@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.62",
-  "build_number": 63,
+  "latest_version": "1.0.63",
+  "build_number": 64,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: Mejora Asistencia",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.62/app-release.apk",
-  "file_size_bytes": 99585323,
-  "sha256": "0c90eea2a75b06fa80fb57ca344ab3346b9e0aba6d6e8e07379f2472f0f8657f"
+  "release_notes": "Mejoras TIC: reparación y estado operativo, formularios ordenados sin duplicados, firmas por rol y recuperación de datos al editar.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.63/app-release.apk",
+  "file_size_bytes": 99585391,
+  "sha256": "be9112584a73d67bc1b5346dc894b7c60d2be05c060eadba047df30af85b0301"
 }
