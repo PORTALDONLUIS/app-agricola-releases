@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.63",
-  "build_number": 64,
+  "latest_version": "1.0.64",
+  "build_number": 65,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: reparación y estado operativo, formularios ordenados sin duplicados, firmas por rol y recuperación de datos al editar.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.63/app-release.apk",
-  "file_size_bytes": 99585391,
-  "sha256": "be9112584a73d67bc1b5346dc894b7c60d2be05c060eadba047df30af85b0301"
+  "release_notes": "Correcion de como se guarda la fecha en los informes en las cartillas de TIC ",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.64/app-release.apk",
+  "file_size_bytes": 99585323,
+  "sha256": "990a70cac7499db7081936bb225df72ed49e6f14950e2f6452dd1ddd1fdcf34a"
 }
