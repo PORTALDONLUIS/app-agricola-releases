@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.64",
-  "build_number": 65,
+  "latest_version": "1.0.65",
+  "build_number": 66,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Correcion de como se guarda la fecha en los informes en las cartillas de TIC ",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.64/app-release.apk",
-  "file_size_bytes": 99585323,
-  "sha256": "990a70cac7499db7081936bb225df72ed49e6f14950e2f6452dd1ddd1fdcf34a"
+  "release_notes": "Mejoras TIC: guardado de informes de mantenimiento preventivo, desbloqueo de tipo al editar equipos, filtro multiselección en reportes y visibilidad de validaciones en firmas.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.65/app-release.apk",
+  "file_size_bytes": 99585391,
+  "sha256": "995ece39c26ed8267251557c346c9d4182db29ae30da6d05262d037fcdd3cd3e"
 }
