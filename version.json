@@ -3,8 +3,8 @@
   "build_number": 68,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: Mejora de Cartilla Fertilidad",
+  "release_notes": "Mejoras TIC: filtros rápidos en inventario y trabajadores cesados con activos, alerta de offboarding, etiquetas unificadas y multiselección de área en reportes.",
   "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.67/app-release.apk",
-  "file_size_bytes": 99601707,
-  "sha256": "6ec305b92a8890478b482c3bb45957dadcd22fe9cba30d9f2cc377a942a81f1c"
+  "file_size_bytes": 99585391,
+  "sha256": "f36dacd3f4ca8192e1f854740f6c3d240735fa94faac94a5d47f254ec4f7b5d1"
 }
