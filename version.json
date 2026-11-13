@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.66",
-  "build_number": 67,
+  "latest_version": "1.0.67",
+  "build_number": 68,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: guardado de informes preventivos, firmas y selector de trabajador en devoluciones, desbloqueo de tipo al editar equipos y filtro multiselección en reportes.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.66/app-release.apk",
-  "file_size_bytes": 99585391,
-  "sha256": "dd9c2556c02bb397165ed6a2b10939860999654187dcfa55e54a1d5f5c9ae37e"
+  "release_notes": "Mejoras TIC: Mejora de Cartilla Fertilidad",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.67/app-release.apk",
+  "file_size_bytes": 99601707,
+  "sha256": "6ec305b92a8890478b482c3bb45957dadcd22fe9cba30d9f2cc377a942a81f1c"
 }
