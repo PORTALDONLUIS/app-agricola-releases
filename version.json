@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.70",
-  "build_number": 71,
+  "latest_version": "1.0.71",
+  "build_number": 72,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: eliminación de la etiqueta técnico en cartillas y reportes, cierre directo de informes pendientes desde la app, filtro de informe abierto y mejoras de seguimiento en fichas de equipos.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.70/app-release.apk",
-  "file_size_bytes": 99700295,
-  "sha256": "0dca797bd5a1f1d05c8f0dd5ba395d8ab3639843fe5f957cf728cc4d00761a91"
+  "release_notes": "Nueva cartilla de Paletizado - Calidad",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.71/app-release.apk",
+  "file_size_bytes": 99700227,
+  "sha256": "5cba6d28874ffd0d012908918a9aee6cc2784757143f81a7490cb8abfa0e897a"
 }
