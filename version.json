@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.69",
-  "build_number": 70,
+  "latest_version": "1.0.70",
+  "build_number": 71,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: Mejor en la cartilla longitud de brote / Fitosanidad",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.69/app-release.apk",
-  "file_size_bytes": 99700011,
-  "sha256": "ec2ef8cd488d994d185dd229785aad6412f43927b6d68d5df1c364856698e257"
+  "release_notes": "Mejoras TIC: eliminación de la etiqueta técnico en cartillas y reportes, cierre directo de informes pendientes desde la app, filtro de informe abierto y mejoras de seguimiento en fichas de equipos.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.70/app-release.apk",
+  "file_size_bytes": 99700295,
+  "sha256": "0dca797bd5a1f1d05c8f0dd5ba395d8ab3639843fe5f957cf728cc4d00761a91"
 }
