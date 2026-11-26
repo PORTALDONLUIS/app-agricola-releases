@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.73",
-  "build_number": 74,
+  "latest_version": "1.0.74",
+  "build_number": 75,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: plantilla unificada Inventario TIC con escáner QR y accesos rápidos, nombres reales de archivos PDF alineados con DonTec Web, tarjeta de referencia de equipo y trabajador en formularios y documentos, denuncia policial PDF solo para equipos robados y sincronización automática de cartillas desasignadas.",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.73/app-release.apk",
+  "release_notes": "Mejoras TIC: alineación completa de formularios para los 13 tipos de equipo, almacenamiento y RAM directa al registrar celulares, visibilidad precisa de procesador, carga instantánea de campos por tipo de recurso y movimientos filtrados para consumibles y servicios.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.74/app-release.apk",
   "file_size_bytes": 99946867,
-  "sha256": "077fbff5dfb879476e28fad7758949855a0ccb8e07dd86355a6aebfd2546bd32"
+  "sha256": "75613372d52dedc444a50917736cd9cd98a9e248fe73c5c979015b4c7bfd2474"
 }
