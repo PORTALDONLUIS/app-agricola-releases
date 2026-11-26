@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.72",
-  "build_number": 73,
+  "latest_version": "1.0.73",
+  "build_number": 74,
   "minimum_build": 1,
   "is_mandatory": false,
-  "release_notes": "Mejoras TIC: Mejora cartillas activas y inactivas",
-  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.72/app-release.apk",
-  "file_size_bytes": 99864067,
-  "sha256": "da1222a2b7e001f73f3a0b6ae432a9516e07ccb93c87d7495b3f8bb28190b88a"
+  "release_notes": "Mejoras TIC: plantilla unificada Inventario TIC con escáner QR y accesos rápidos, nombres reales de archivos PDF alineados con DonTec Web, tarjeta de referencia de equipo y trabajador en formularios y documentos, denuncia policial PDF solo para equipos robados y sincronización automática de cartillas desasignadas.",
+  "download_url": "https://github.com/PORTALDONLUIS/app-agricola-releases/releases/download/v1.0.73/app-release.apk",
+  "file_size_bytes": 99946867,
+  "sha256": "077fbff5dfb879476e28fad7758949855a0ccb8e07dd86355a6aebfd2546bd32"
 }
